@@ -129,3 +129,8 @@ section.projects h3 {
     font-size: 26px;
 }
 
+section.projects h3:hover {
+    color: #009969;
+}
+
+
